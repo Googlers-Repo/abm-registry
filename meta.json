@@ -1,0 +1,15 @@
+[{
+  "query": "bash",
+  "bins": ["bash"],
+  "desc": ""
+},
+{
+  "query": "wget",
+  "bins": ["wget"],
+  "desc": ""
+},
+{
+  "query": "xh",
+  "bins": ["xh"],
+  "desc": ""
+}]
