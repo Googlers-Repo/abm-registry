@@ -6,6 +6,12 @@
   {
     "query": "wget",
     "bins": ["wget"],
+    "symbolic": [
+      {
+        "bin": "wget",
+        "target": "WGET"
+      }
+  ],
     "desc": ""
 },
   {
