@@ -4,12 +4,12 @@
     "desc": ""
 },
   {
-    "query": "wget",
-    "bins": ["wget"],
+    "query": "neofetch",
+    "bins": ["neofetch"],
     "symbolic": [
       {
-        "bin": "wget",
-        "target": "WGET"
+        "bin": "neofetch",
+        "target": "sysfetch"
       }
   ],
     "desc": ""
